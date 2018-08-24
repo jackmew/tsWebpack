@@ -1,1 +1,1 @@
-# TypeScript & JQuery & SystemJs & gulp
+# TypeScript & Webpack
